@@ -6,7 +6,7 @@ Welcome to the Text-to-Speech Extension repository! This extension empowers user
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Demo Video](https://img.youtube.com/vi/_mrXqjxZovk/0.jpg)](https://youtu.be/_mrXqjxZovk)
 
 Check out our demo video to see the Text-to-Speech Extension in action!
 
